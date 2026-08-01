@@ -119,7 +119,6 @@ movie-cards/
 | `npm run preview` | Preview the production build |
 | `npm run lint` | Run Oxlint for code quality |
 
----
 
 ## 🤝 Contributing
 
